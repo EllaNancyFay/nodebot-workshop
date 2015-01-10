@@ -30,9 +30,5 @@ board.on('ready', function() {
     tempo: 100
     });
   })
-  server.bind(1337);
+  server.bind(1337)
 });
-
-
-
-
